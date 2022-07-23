@@ -1,9 +1,6 @@
 import random
 
-
 random_generator = random.randint(1, 10)
-print(random_generator)
-
 
 lives = 5
 game_on = True
